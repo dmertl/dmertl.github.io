@@ -1,19 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Site settings
-title: dmertl.github.io
-email: nope@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  dmertl.github.io development blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dmertl.github.io" # the base hostname & protocol for your site
-twitter_username: dmertl
-github_username:  dmertl
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Build settings
-markdown: kramdown
+# Setup
+title:            dmertl
+tagline:          'Development Blog'
+description:      'The exciting development adventures of @dmertl'
+url:              http://dmertl.github.io
+baseurl:          /
+
+author:
+  name:           'David Mertl'
+  url:            http://dmertl.com/
+
+paginate:         5
