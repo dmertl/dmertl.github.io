@@ -11,8 +11,8 @@ TODO
 
 ## Python
 
-- argparse: https://gist.github.com/dmertl/0bf17e84ea009e6e12f587d152d4ed62
-- pyenv: https://gist.github.com/dmertl/53b54521e4ded6e1e2626869c1bb5f34
+- argparse: [https://gist.github.com/dmertl/0bf17e84ea009e6e12f587d152d4ed62]()
+- pyenv: [https://gist.github.com/dmertl/53b54521e4ded6e1e2626869c1bb5f34]
 
 ## Javascript
 
@@ -20,7 +20,7 @@ TODO
 
 ## Linux / Bash
 
-- https://gist.github.com/dmertl/b21937aa625adcfdde6377e047b289e5
+- [https://gist.github.com/dmertl/b21937aa625adcfdde6377e047b289e5][]
 
 ## Unicode
 
