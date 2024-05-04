@@ -17,7 +17,8 @@ TODO
 
 ## Javascript
 
-TODO
+- General Javascript: [https://gist.github.com/dmertl/0aaf0a5fd07dfc2f23d99c681a15b878]()
+- Tampermonkey: [https://gist.github.com/dmertl/69d901ce8437aa1afc7218e1164a6186]()
 
 ## Linux / Bash
 
