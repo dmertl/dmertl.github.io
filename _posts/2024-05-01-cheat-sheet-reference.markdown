@@ -17,8 +17,12 @@ TODO
 
 ## Javascript
 
-- General Javascript: [https://gist.github.com/dmertl/0aaf0a5fd07dfc2f23d99c681a15b878]()
+- Javascript Cheatsheet: [https://gist.github.com/dmertl/0aaf0a5fd07dfc2f23d99c681a15b878]()
 - Tampermonkey: [https://gist.github.com/dmertl/69d901ce8437aa1afc7218e1164a6186]()
+
+## MySQL
+
+- MySQL Cheatsheet: [https://gist.github.com/dmertl/a7004c441d2c1e06183caba23bce765d]()
 
 ## Linux / Bash
 
@@ -27,6 +31,7 @@ TODO
 ## Unicode
 
 - Identify unicode characters: [https://www.babelstone.co.uk/Unicode/whatisit.html]()
+- Similar tool to get unicode info on a single char: [https://www.cogsci.ed.ac.uk/~richard/utf-8.html]()
 - JS to print all unicode characters from current names list: [https://gist.github.com/dmertl/257433864ba85d4fcc3c128a47db34c3]()
 
 TODO: Gist of "fun" characters. Make easy to copy + paste to check if they are supported.
