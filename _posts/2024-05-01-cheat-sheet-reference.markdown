@@ -32,6 +32,11 @@ TODO
 
 - <https://gist.github.com/dmertl/c52cf1810fa4dde76c39b9e1a620c419>
 
+## FFmpeg
+
+- <https://gist.github.com/dmertl/8504eb826c10d68d573ae59c0f7979f2>
+- FFmpeg droppable batch scripts: <https://gist.github.com/dmertl/c4623c5567b40db0d8d8e696f221a820>
+
 ## Unicode
 
 - Identify unicode characters: <https://www.babelstone.co.uk/Unicode/whatisit.html>
