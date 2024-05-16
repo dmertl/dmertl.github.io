@@ -8,7 +8,7 @@ tags: softwaredevelopment programming reference cheatsheet php python javascript
 
 ## PHP
 
-TODO
+- <https://gist.github.com/dmertl/9cf2357fc1ef829a1e439f53f7c9c288>
 
 ## Python
 
