@@ -5,8 +5,7 @@ title:  "Tampermonkey Scripts"
 
 ## Bandcamp Tab Player
 
-Test Short link: <bandcamp_player.js>
-Test Full link: [/tampermonkey/bandcamp_player.js](bandcamp_player.js)
+[bandcamp_player.js](bandcamp_player.js)
 
 Play through all open bandcamp.com tabs that have songs on them. Bandcamp lets you play songs before buying them, but 
 only one page at a time. This script will coordinate with all open tabs and play songs from each one.
