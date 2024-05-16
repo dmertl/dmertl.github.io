@@ -9,11 +9,10 @@ permalink:        pretty
 title:            dmertl
 tagline:          'Development Blog'
 description:      'The exciting development adventures of @dmertl'
-url:              http://dmertl.github.io
-baseurl:          /
+url:              https://dmertl.github.io
 
 author:
   name:           'David Mertl'
-  url:            http://dmertl.com/
+  url:            https://dmertl.com/
 
 paginate:         5
