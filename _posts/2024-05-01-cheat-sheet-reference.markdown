@@ -66,8 +66,8 @@ Using custom regex and assigning to variable:
 
 ## OS X
 
-- [https://gist.github.com/dmertl/60bf74233fdf87b4535ab16cf6a59ab7]()
+- <https://gist.github.com/dmertl/60bf74233fdf87b4535ab16cf6a59ab7>
 
 ## Misc
 
-- Script for parsing ElasticSearch results: [https://gist.github.com/dmertl/16a1ec1eb88fc3a7bad5ebdbc71b7c45]()
+- Script for parsing ElasticSearch results: <https://gist.github.com/dmertl/16a1ec1eb88fc3a7bad5ebdbc71b7c45>
